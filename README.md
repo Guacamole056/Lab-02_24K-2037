@@ -9,5 +9,5 @@
 ```
 gh repo clone ytdl-org/youtube-dl
 https://github.com/ytdl-org/youtube-dl.git
-
 ```
+![Cat](https://myoctocat.com/assets/images/base-octocat.svg)
