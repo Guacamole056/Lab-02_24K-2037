@@ -1,0 +1,7 @@
+PSEUDOCODE
+Problem: Find the maximum number in any of three variables.
+
+
+
+ALGORITHM
+Problem: Implement an algorithm where the user enters a number, and an appropriate month is displayed.
