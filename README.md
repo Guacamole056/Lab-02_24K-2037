@@ -8,5 +8,6 @@
 >This text is a quote
 ```
 gh repo clone ytdl-org/youtube-dl
+https://github.com/ytdl-org/youtube-dl.git
 
 ```
