@@ -1,0 +1,27 @@
+										Objective 2: PSEUDOCODE
+
+	Task 3: Create a small calculator which only does ‘+’ or ‘-’Operations. 
+
+START
+
+// Input/Output
+
+INPUT N1
+INPUT Operator
+INPUT N2
+
+// variables and Initialization
+
+SET sum to 0
+SET diff to 0
+
+// Process
+
+IF Operator == “+” THEN
+	sum = N1 + N2
+	PRINT sum
+ELSE IF Operator == “-” THEN
+	diff = N1- N2
+	PRINT diff
+
+END

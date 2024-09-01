@@ -1,0 +1,22 @@
+										Objective 2: PSEUDOCODE
+
+	Task 2: Take three variables as input and add them without using the + operator.
+
+START 
+
+// Input/Output
+
+INPUT N1
+INPUT N2
+INPUT N3
+
+// variables and Initialization
+
+SET sum to 0
+
+// Process
+
+sum = N1 - (-N2) - (-N3)
+PRINT sum
+
+END
