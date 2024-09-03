@@ -8,7 +8,3 @@
 3. If we take N mod n and the result is 0 then that means N is a divisor of n
 4. Afterwards, to determine if it is even or odd, we take N mod 2 and if the result is 0, the divisor is even. If it is not 0, then the divisor is odd.
 5. Finally, we present the solution to the problem using clear and proper English. 
-
-
-
-
